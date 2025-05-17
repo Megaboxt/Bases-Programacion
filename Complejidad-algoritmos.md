@@ -25,9 +25,21 @@ function imprimirNumeros (n) {
 
 ---   
 
-## Tipos de complejidad temporal más comunes  
+## Tipos de complejidad temporal
 
-1. Tiempo Constante - O(1) 
+- O(1) - Tiempo Constante (Complejidad Constante)
+
+- O(log n) - Tiempo Logarítmico
+
+- O(n) - Tiempo Lineal
+
+- O(n log n) - Tiempo Linealítmico
+
+- O(n²) - Tiempo Cuadrático
+
+- O(2ⁿ) - Tiempo Exponencial
+
+- O(n!) - Tiempo Factorial
 
 
 ---
